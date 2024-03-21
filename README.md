@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
     </a>
     <a href="mailto:vdo-sofia@mail.ru">
-      <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="mail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
     </a>
      <a href="https://www.codewars.com/users/rsschool_ae9543dc9e4e0811" target="_blank">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
