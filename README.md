@@ -51,6 +51,8 @@ My name is Sofia.
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suficks&show_icons=true&theme=radical&count_private=true" alt="" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suficks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a align="center" href="https://github.com/Suficks">
+     <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suficks&show_icons=true&hide_border=true&theme=radical&layout=compact" />
+  </a>
 
 </div>
