@@ -50,6 +50,7 @@ My name is Sofia.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suficks&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suficks&show_icons=true&theme=radical&count_private=true" alt="" />
-<img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Suficks&show_icons=true&hide_border=true&theme=radical&layout=compact" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Lebedev-BPPG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
