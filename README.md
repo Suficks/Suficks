@@ -49,7 +49,7 @@ My name is Sofia.
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suficks&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suficks&theme=blue-green" alt="" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suficks&show_icons=true&theme=radical&count_private=true" alt="" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suficks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
