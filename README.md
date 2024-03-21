@@ -10,3 +10,10 @@
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
     </a>
   </div>
+
+  <h1 align="center">Hi there, I'm Alexey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+### :woman_technologist: &nbsp;About Me :
+
+Hi! 
+My name is Sofia. 
