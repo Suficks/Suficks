@@ -32,7 +32,7 @@ My name is Sofia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg"  title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"  title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/prettier-ff69b4.svg?style=flat-square"  title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="jest" width="40" height="40"/>&nbsp;
