@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Suficks/Suficks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" /></p>
+<div id="badges" align="center">
+    <a href="https://t.me/suficks" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:vdo-sofia@mail.ru">
+      <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="mail"/>
+    </a>
+     <a href="https://www.codewars.com/users/Alexey-Lebedev-BPPG" target="_blank">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+    </a>
+  </div>
