@@ -45,7 +45,7 @@
 </p>
 ---
 
-## My Educational Projects
+### 🎓 &nbsp; My Educational Projects
 
 | Project Title            | Deploy Link                                                        |
 |--------------------------|:-------------------------------------------------------------------|
