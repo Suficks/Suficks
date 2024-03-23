@@ -52,6 +52,7 @@
 |--------------------------|:-------------------------------------------------------------------|
 | Louvre                  | [Louvre](https://suficks.github.io/Museum/museum/)     |
 | Art-Quiz                | [Art-Quiz](https://suficks.github.io/Art-Quiz/art-quiz/)     |
+| RSS-Puzzle              | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
 | Coffee-house            | [Coffee-house](https://house-of-coffee.netlify.app/)         |
 | Library                 | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
 | Audio player            | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
