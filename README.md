@@ -44,6 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" alt="Storybook " width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 ### 🎓 &nbsp; My Educational Projects
 
