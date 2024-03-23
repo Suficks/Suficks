@@ -12,6 +12,7 @@
   </div>
 
   <h1 align="center">Hi there, I'm Sofia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <h2 align="center">Junior Frontend Developer</h2>
 
 ### :woman_technologist: &nbsp;About Me :
 
