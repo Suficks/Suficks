@@ -55,6 +55,8 @@
 | RSS-Puzzle              | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
 | Coffee-house            | [Coffee-house](https://house-of-coffee.netlify.app/)         |
 | Library                 | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
+| Nonograms               | [Nonograms](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/nonograms/) |
+| Hangman                 | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
 | Audio player            | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
 | Snake game              | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
 
