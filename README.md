@@ -69,6 +69,5 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suficks&show_icons=true&theme=radical&count_private=true" alt="" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suficks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
