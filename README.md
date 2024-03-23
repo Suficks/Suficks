@@ -11,8 +11,7 @@
     </a>
   </div>
 
-  <h1 align="center">Hi there, I'm Sofia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-  <h1 align="center">Junior Frontend Developer</h1>
+  <h1 align="center">Hi there, I'm Sofia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">&nbsp;Junior Frontend Developer</h1>
 
 ### :woman_technologist: &nbsp;About Me :
 
