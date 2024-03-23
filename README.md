@@ -15,8 +15,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Hi! 
-My name is Sofia. 
+- 🎓 Graduated from the University in Biotechnology
+- 💻 Fell in love with programming at first sight and I don’t want to live without it anymore.
+- 🌟 __Believe that with enough effort you can achieve anything.__
 
 ---
 
