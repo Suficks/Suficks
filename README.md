@@ -57,6 +57,7 @@
 | Library                 | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
 | Nonograms-game          | [Nonograms](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/nonograms/) |
 | Hangman-game            | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
+| Async-race              | [Async-race](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/async-race/) |
 | Snake-game              | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
 | Audio player            | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
 
