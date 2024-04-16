@@ -55,7 +55,7 @@
 | RSS-Puzzle              | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
 | Coffee-house            | [Coffee-house](https://house-of-coffee.netlify.app/)         |
 | Library                 | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
-| Async-race              | [Async-race](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/async-race/) |
+| Async-race              | [Async-race](https://github.com/Suficks/Async-Race) |
 | Nonograms-game          | [Nonograms](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/nonograms/) |
 | Hangman-game            | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
 | Snake-game              | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
