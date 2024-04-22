@@ -38,7 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="jest" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
+<img src="https://www.cypress.io/images/layouts/cypress-logo.svg" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/190230082-55409fe9-d5a2-4f3d-bdba-0f0946190e67.png" title="Loki" alt="loki" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
