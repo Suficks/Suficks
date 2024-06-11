@@ -63,8 +63,8 @@
 | Hangman-game (JS)          | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
 | Snake-game (JS)            | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
 | Audio player (JS)          | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
-| Testing App (TS)           | [Testing](https://testingtask-mad-soft.netlify.app/)                            |
-| Tasks Calendar (TS)        | [Tasks Calendar](https://calendar-test-task-airnet.netlify.app/)                            |
+| Testing App (React)        | [Testing](https://testingtask-mad-soft.netlify.app/)                            |
+| Tasks Calendar (React)     | [Tasks Calendar](https://calendar-test-task-airnet.netlify.app/)                            |
 | To-Do (React)              | [To-Do](https://taskcreating.netlify.app/)                            |
 | Simple-Weather (Vue)       | [Simple-Weather](https://simple-weather-vue.netlify.app/)                            |
 
