@@ -64,6 +64,7 @@
 | Snake-game              | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
 | Audio player            | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
 | Testing App             | [Testing](https://testingtask-mad-soft.netlify.app/)                            |
+| Tasks Calendar          | [Tasks Calendar](https://calendar-test-task-airnet.netlify.app/)                            |
 | To-Do                   | [To-Do](https://taskcreating.netlify.app/)                            |
 
 ---
