@@ -52,6 +52,7 @@
 | Project Title              | Deploy Link                                                        |
 |----------------------------|:-------------------------------------------------------------------|
 | Production Project (React) | [Production Project](https://github.com/Suficks/production-project)     |
+| eCommerce (React TeamWork) | [eCommerce](https://prakriti-organic.netlify.app/)     |
 | Louvre (JS)                | [Louvre](https://suficks.github.io/Museum/museum/)     |
 | Art-Quiz (JS)              | [Art-Quiz](https://suficks.github.io/Art-Quiz/art-quiz/)     |
 | RSS-Puzzle (TS)            | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
