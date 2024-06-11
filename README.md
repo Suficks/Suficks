@@ -49,23 +49,24 @@
 
 ### 🎓 &nbsp; My Educational Projects
 
-| Project Title            | Deploy Link                                                        |
-|--------------------------|:-------------------------------------------------------------------|
-| Production Project      | [Production Project](https://github.com/Suficks/production-project)     |
-| Louvre                  | [Louvre](https://suficks.github.io/Museum/museum/)     |
-| Art-Quiz                | [Art-Quiz](https://suficks.github.io/Art-Quiz/art-quiz/)     |
-| RSS-Puzzle              | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
-| Coffee-house            | [Coffee-house](https://house-of-coffee.netlify.app/)         |
-| Library                 | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
-| Async-race              | [Async-race](https://github.com/Suficks/Async-Race) |
-| Fun Chat                | [Fun Chat](https://github.com/Suficks/Fun-Chat) |
-| Nonograms-game          | [Nonograms](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/nonograms/) |
-| Hangman-game            | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
-| Snake-game              | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
-| Audio player            | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
-| Testing App             | [Testing](https://testingtask-mad-soft.netlify.app/)                            |
-| Tasks Calendar          | [Tasks Calendar](https://calendar-test-task-airnet.netlify.app/)                            |
-| To-Do                   | [To-Do](https://taskcreating.netlify.app/)                            |
+| Project Title              | Deploy Link                                                        |
+|----------------------------|:-------------------------------------------------------------------|
+| Production Project (React) | [Production Project](https://github.com/Suficks/production-project)     |
+| Louvre (JS)                | [Louvre](https://suficks.github.io/Museum/museum/)     |
+| Art-Quiz (JS)              | [Art-Quiz](https://suficks.github.io/Art-Quiz/art-quiz/)     |
+| RSS-Puzzle (TS)            | [RSS-Puzzle](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/rss-puzzle/)     |
+| Coffee-house (React)       | [Coffee-house](https://house-of-coffee.netlify.app/)         |
+| Library (JS)               | [Library](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/library/) |
+| Async-race (TS)            | [Async-race](https://github.com/Suficks/Async-Race) |
+| Fun Chat (TS)              | [Fun Chat](https://github.com/Suficks/Fun-Chat) |
+| Nonograms-game (JS)        | [Nonograms](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/nonograms/) |
+| Hangman-game (JS)          | [Hangman](https://rolling-scopes-school.github.io/suficks-JSFE2023Q4/hangman/) |
+| Snake-game (JS)            | [Snake game](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/random-game/)      |
+| Audio player (JS)          | [Audio player](https://rolling-scopes-school.github.io/suficks-JSFEPRESCHOOL2023Q2/audio-player/)                            |
+| Testing App (TS)           | [Testing](https://testingtask-mad-soft.netlify.app/)                            |
+| Tasks Calendar (TS)        | [Tasks Calendar](https://calendar-test-task-airnet.netlify.app/)                            |
+| To-Do (React)              | [To-Do](https://taskcreating.netlify.app/)                            |
+| Simple-Weather (Vue)       | [Simple-Weather](https://simple-weather-vue.netlify.app/)                            |
 
 ---
 
